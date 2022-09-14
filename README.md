@@ -27,7 +27,7 @@
 
 ### 적용 기술
 
-> - Front-End : React.js, sass
+> - Front-End : React.js, sass, react-modal, react-dom, react-icons, react-paginate, react-router-dom
 
 
 
