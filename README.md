@@ -53,7 +53,8 @@
 - 수량(+,-)버튼 구현, 상품수량이 상품재고보다 많아지면 재고 알림창 구현
 - POST 요청 : 수량,제품번호 post 통신
 
-https://user-images.githubusercontent.com/100896832/190034745-3bc71213-3d35-449f-b8d6-559ff5bb8991.mp4
+[https://user-images.githubusercontent.com/100896832/190034745-3bc71213-3d35-449f-b8d6-559ff5bb8991.mp4](https://user-images.githubusercontent.com/100896832/190036250-5f0e6159-baae-4493-baab-3821ba085697.mp4
+)
 
 3. 장바구니
 - 장바구니 레이아웃
