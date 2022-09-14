@@ -65,6 +65,9 @@ https://user-images.githubusercontent.com/100896832/190037169-28a7dff9-cf77-4e42
 - PATCH : 장바구니 상품 수량변경 -> 유저 아이디,상품 아이디,변경된 수량을 담아서 요청 
 - DELETE : 개별 상품 삭제, 체크된 상품 삭제, 전체삭제(장바구니 비우기)
 
+https://user-images.githubusercontent.com/100896832/190058209-81c8bdc1-f5f7-4ec4-b3c1-a13d225d83fd.mp4
+
+
 4. 검색창
 - 검색창 레이아웃
 - GET : 서버로부터 query문 사용하여 값을 가져옴
