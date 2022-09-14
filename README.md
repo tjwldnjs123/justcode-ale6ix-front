@@ -49,6 +49,8 @@
 - 중복 Title컴포넌트화
 - Magazine 목데이터 사용
 
+https://user-images.githubusercontent.com/100896832/190037169-28a7dff9-cf77-4e42-8583-b76d1ef0eb66.mp4
+
 2. 제품 상세페이지
 - 수량(+,-)버튼 구현, 상품수량이 상품재고보다 많아지면 재고 알림창 구현
 - POST 요청 : 수량,제품번호 post 통신
