@@ -30,6 +30,14 @@
 > - Front-End : React.js, sass, react-modal, react-dom, react-icons, react-paginate, react-router-dom
 
 
+### 전체 프로젝트 구현 기능
+- 로그인,회원가입
+- 메인페이지
+- 제품 페이지
+- 제품 상세페이지
+- nav,footer
+- 검색창
+- 장바구니
 
 
 ### 구현 기능
